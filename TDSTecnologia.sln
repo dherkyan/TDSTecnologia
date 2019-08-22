@@ -3,7 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28803.352
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDS.Web", "TDS.Web\TDS.Web.csproj", "{9C0EE73B-6694-4E6F-9630-9D9D43E77091}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C0EE73B-6694-4E6F-9630-9D9D43E77091}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C0EE73B-6694-4E6F-9630-9D9D43E77091}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C0EE73B-6694-4E6F-9630-9D9D43E77091}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C0EE73B-6694-4E6F-9630-9D9D43E77091}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
